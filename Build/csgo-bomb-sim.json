@@ -1,7 +1,7 @@
 {
 "companyName": "Atoqaz",
 "productName": "CSGO Bombsite Simulator",
-"productVersion": "1.4",
+"productVersion": "",
 "dataUrl": "csgo-bomb-sim.data.unityweb",
 "wasmCodeUrl": "csgo-bomb-sim.wasm.code.unityweb",
 "wasmFrameworkUrl": "csgo-bomb-sim.wasm.framework.unityweb",
